@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cuarta App</string>
+    <string name="txt1">Dame el primer valor</string>
+    <string name="txt2">Dame el segundo valor</string>
+    <string name="resultado">Resultado</string>
+    <string name="boton">Calcular</string>
+</resources>

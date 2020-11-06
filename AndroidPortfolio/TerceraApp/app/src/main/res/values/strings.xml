@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tercera App</string>
+    <string name="valor1">Primer Valor</string>
+    <string name="valor2">Segundo Valor</string>
+    <string name="boton1">Sumar</string>
+    <string name="boton2">Restar</string>
+    <string name="boton3">Multiplicar</string>
+    <string name="boton4">Dividir</string>
+    <string name="res">Resultado</string>
+    <string name="enviar">Operar</string>
+</resources>

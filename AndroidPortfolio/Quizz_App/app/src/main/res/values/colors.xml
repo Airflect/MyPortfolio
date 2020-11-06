@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#2980b9</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorText">#ecf0f1</color>
+    <color name="colorTrueButton">#27ae60</color>
+    <color name="colorFalseButton">#c0392b</color>
+    <color name="gradient_start">#fc00ff</color>
+    <color name="gradient_end">#00dbde</color>
+    <color name="white">#ffffff</color>
+    <color name="btn1_color1">#0cebeb</color>
+    <color name="btn1_color2">#20e3b2</color>
+    <color name="btn1_color3">#29ffc6</color>
+    <color name="btn2_color1">#f12711</color>
+    <color name="btn2_color2">#f5af19</color>
+
+</resources>

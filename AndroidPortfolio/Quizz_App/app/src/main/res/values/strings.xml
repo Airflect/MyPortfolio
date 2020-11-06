@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Verdadero o Falso</string>
+
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="initial_score">Puntuación 0/13</string>
+
+
+    <string name="incorrect_toast">Incorrecto!</string>
+    <string name="correct_toast">Correcto!</string>
+
+    <string name="question_1">Nunca se ha visto a un elefante saltando en vertical.</string>
+    <string name="question_2">En los hogares españoles hay más pájaros que gatos.</string>
+    <string name="question_3">En la playa normanda de Grandville están prohibidos los elefantes.</string>
+    <string name="question_4">Cuando un avión aterriza de noche se apagan todas sus luces interiores.</string>
+    <string name="question_5">Más del 50 % de la mortalidad infantil se debe al problema del hambre mundial.</string>
+    <string name="question_6">Los cabellos y las uñas siguen creciendo después de la muerte.</string>
+    <string name="question_7">La Universidad de Cambridge se fundó antes que el Machu Picchu</string>
+    <string name="question_8">La Gran Muralla China es la única obra construida por el hombre visible a simple vista desde el espacio.</string>
+    <string name="question_9">La superficie de Chile es mayor que la de Francia</string>
+    <string name="question_10">Los elefantes son los únicos animales con 4 rodillas.</string>
+    <string name="question_11">Si tiras un céntimo desde lo alto de un rascacielos, puedes atravesarle el cráneo a alguien.</string>
+    <string name="question_12">Las huellas dactilares suelen estar determinadas por nuestros genes, así que pueden tener ciertas semejanzas con las de nuestros progenitores. </string>
+    <string name="question_13">La tela de araña es el material más resistente que ha creado la naturaleza</string>
+
+</resources>

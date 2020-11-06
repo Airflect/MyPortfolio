@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quinta App</string>
+    <string name="direccionweb">Escribe una direccion web</string>
+    <string name="Boton1">Navegar</string>
+    <string name="Boton2">Volver</string>
+
+</resources>
